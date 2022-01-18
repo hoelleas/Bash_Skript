@@ -1,4 +1,5 @@
 # Mein erstes Repositorium
 ## Meine Bash-Skripte
 
-Astrid Höller
+- Astrid Höller
+- 2022-01-18
